@@ -12,6 +12,7 @@ Também estou cursando o curso de Barbeiro na Embelleze.
 
 [![card](https://github-readme-stats.vercel.app/api?username=nardao7&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=nardao7&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
